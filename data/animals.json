@@ -153,6 +153,24 @@
         "hungry"
       ],
       "id": "15"
+    },
+    {
+      "name": "tony",
+      "species": "Tiger",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "zany"
+      ],
+      "id": "16"
+    },
+    {
+      "name": "Debrah",
+      "species": "Zebra",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "zany"
+      ],
+      "id": "17"
     }
   ]
 }
